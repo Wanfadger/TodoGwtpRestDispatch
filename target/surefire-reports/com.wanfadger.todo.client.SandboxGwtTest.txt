@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: com.wanfadger.todo.client.SandboxGwtTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.551 sec
+testSandbox(com.wanfadger.todo.client.SandboxGwtTest)  Time elapsed: 12.542 sec
